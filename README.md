@@ -9,3 +9,8 @@
 - Merge Sort
 - Binary Search
 - Big O Notation
+
+## Module 3: Basic Data Structures
+- Linked Lists
+- Stacks
+- Queues
